@@ -1,0 +1,36 @@
+body
+{
+    background-position: center;
+    background-size: cover;
+    font-family: 'Poppins', sans-serif;
+}
+.link
+{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-size: 25px;
+    background: white;
+    width: 15%;
+    height: 7%;
+    align-items: center;
+    vertical-align: center;
+    padding: 3.5px;
+    border-radius: 10px;
+    transition: .3s;
+}
+.link:hover
+{
+    background:  #D3D3D3;
+    color: white;
+}
+.header
+{
+    font-size: 40px;
+    font-weight: bold;
+    background: pink;
+    width: 50%;
+    height: 10%;
+    padding: 8px;
+    border-radius: 10px
+};
